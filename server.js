@@ -406,7 +406,7 @@ async function findAnswer(userInput) {
     return {
       text: bestMatch.answer,
       videoHtml: videoUrl
-        ? `<iframe width="100%" height="315" src="${videoUrl}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        ? `<iframe width="250" height="315" src="${videoUrl}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
         : null,
       description: null,
       imageUrl: null

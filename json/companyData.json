@@ -47,9 +47,41 @@
       "imageUrl": "https://yogibo.kr//web/img/product/2023_detailpage/standard/sofa/FUBST101_MAX/11_FUBST101_MAX_SPEC.jpg"
     },
     "더블 사이즈 또는 크기.": {
-      "description": "사이즈 W70cm D45cm H170cm 이며 자세한 내용은 이미지로 안내해 드릴께요",
-      "imageUrl": "https://yogibo.kr//web/img/product/2023_detailpage/standard/sofa/FUBST101_DOUBLE/11_FUBST101_DOUBLE_SPEC.jpg"
-    }
+      "description": "사이즈 W140cm D45cm H170cm 이며 자세한 내용은 이미지로 안내해 드릴께요",
+      "imageUrl": "https://yogibo.kr//web/img/product/2023_detailpage/standard/sofa/DOUBLE/15_Double_SPEC.jpg"
+    },
+    "프라임 사이즈 또는 크기.": {
+      "description": "사이즈 W65cm D45cm H145cm 이며 자세한 내용은 이미지로 안내해 드릴께요",
+      "imageUrl": "https://yogibo.kr//web/img/product/2023_detailpage/standard/sofa/FUBST102_PRIME/11_FUBST102_PRIME_SPEC.jpg"
+    }, 
+    "미니 사이즈 또는 크기.": {
+      "description": "사이즈 W70cm D45cm H90cm 이며 자세한 내용은 이미지로 안내해 드릴께요",
+      "imageUrl": "https://yogibo.kr//web/img/product/2023_detailpage/standard/sofa/FUBST105_MINI/11_FUBST105_MINI_SPEC.jpg"
+    },   
+    "드롭 사이즈 또는 크기.": {
+      "description": "사이즈 W85cm D85cm H75cm 이며 자세한 내용은 이미지로 안내해 드릴께요",
+      "imageUrl": "https://yogibo.kr//web/img/product/2023_detailpage/standard/sofa/FUBST107_DROP/11_FUBST107_DROP_SPEC.jpg"
+    },    
+    "라운저 사이즈 또는 크기.": {
+      "description": "사이즈 W65cm D80cm H60cm 이며 자세한 내용은 이미지로 안내해 드릴께요",
+      "imageUrl": "https://yogibo.kr//web/img/product/2023_detailpage…ofa/FUBST108_LOUNGER/11_FUBST108_LOUNGER_SPEC.jpg"
+    },       
+    "슬림 사이즈 또는 크기.": {
+      "description": "사이즈 W65cm D45cm H130cm 이며 자세한 내용은 이미지로 안내해 드릴께요",
+      "imageUrl": "https://yogibo.kr//web/img/product/2023_detailpage/standard/sofa/FUBST103_SLIM/11_FUBST103_SLIM_SPEC.jpg"
+    }, 
+   "팟 사이즈 또는 크기.": {
+      "description": "사이즈 W85cm D85cm H95cm 이며 자세한 내용은 이미지로 안내해 드릴께요",
+      "imageUrl": "https://yogibo.kr//web/img/product/2023_detailpage…andard/sofa/FUBST106_POD/11_FUBST106_POD_SPEC.jpg"
+    },
+    "피라미드 사이즈 또는 크기.": {
+      "description": "사이즈 W85cm D85cm H95cm 이며 자세한 내용은 이미지로 안내해 드릴께요",
+      "imageUrl": "https://yogibo.kr//web/img/product/2023_detailpage…ofa/FUBPM109_PYRAMID/11_FUBPM109_PYRAMID_SPEC.jpg"
+    } ,
+    "허기보 사이즈 또는 크기.": {
+      "description": "사이즈 W60cm D50cm H110cm 이며 자세한 내용은 이미지로 안내해 드릴께요",
+      "imageUrl": "https://yogibo.kr//web/img/product/2023_detailpage/standard/sofa/HUGIBO/12_hugibo_SPEC.jpg"
+    }           
   },
   "biz": {
     "스탠다드 비즈 에 대해 알고 싶어": {
